@@ -117,16 +117,6 @@ once you know what actually went wrong.
 
 ---
 
-## License
-
-CocoPDF is free to use. It is not open source.
-
-This repository holds documentation only, and the application source is not
-published here. See [LICENSE](LICENSE) for what you may and may not do with the
-text on this page.
-
----
-
 ## Links
 
 [Website](https://cocopdf.com) ·
